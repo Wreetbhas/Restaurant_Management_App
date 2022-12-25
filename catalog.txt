@@ -1,0 +1,7 @@
+Tea,7,1 Cup
+Coffee,10,1 Cup
+Lemon Juice,10,250mL
+Mango Juice,30,300mL
+Samosa,10,1 Piece
+Hot Dog,15,1 Piece
+Pattis,20,1 Piece
